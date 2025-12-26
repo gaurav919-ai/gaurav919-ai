@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**gaurav919-ai/gaurav919-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Gaurav
 
-Here are some ideas to get you started:
+🎓 BSc (CS) Student at Lalit Chandra Bharali College 
+💻 Beginner Developer  
+🌱 Currently learning Web Development, Python & AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills (Beginner Level)
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+- C programing 
+- C++ Programing 
+- Python (Basics)  
+
+---
+
+## 🚀 What I'm Doing Now
+- Practicing DSA in C  
+- Strengthening OOPs using C++  
+- Building small web projects  
+- Learning Git & GitHub  
+- Exploring AI and Machine Learning fundamentals
+
+## 📌 Goals
+- Become a skilled developer  
+- Build real-world projects  
+- Learn AI and modern technologies  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@gaurav919-ai](https://github.com/gaurav919-ai)
+- LinkedIn:
+https://www.linkedin.com/in/gaurav-kumar-sharma-01b536223
+
+---
+
+⭐ *Learning step by step and improving every day*
